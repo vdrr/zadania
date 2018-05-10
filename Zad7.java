@@ -20,5 +20,7 @@ public class Zad7 {
             System.out.println(i);
             i++;
         }
+
+        sc.close();
     }
 }

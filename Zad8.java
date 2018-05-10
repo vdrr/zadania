@@ -39,5 +39,7 @@ public class Zad8 {
         } else {
             System.out.println("Error: Invalid value of B!");
         }
+
+        sc.close();
     }
 }

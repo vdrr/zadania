@@ -29,5 +29,6 @@ public class HighMin {
         } else {
             System.out.println(val3);
         }
+
     }
 }

@@ -16,9 +16,8 @@ public class Zad7 {
             }
         }
 
-        for (int i = 1; i <= number; i++) {
+        for (int i = 1; i <= number; i+=2) {
             System.out.println(i);
-            i++;
         }
 
         sc.close();
